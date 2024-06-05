@@ -1,0 +1,10 @@
+geopandas
+pandas
+sqlalchemy
+geoalchemy2
+python-dotenv
+psycopg2-binary
+requests
+pytz
+shapely
+pyarrow
